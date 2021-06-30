@@ -1,2 +1,2 @@
 # learning-webdevelopment
-Learning Web development repository
+HTML, CSS and Javascript for Web developers - A 5 week course by coursera
